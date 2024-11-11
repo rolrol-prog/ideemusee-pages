@@ -18,5 +18,4 @@ Caroline Magro
 contact@ideemusee.com
 +33 7 88 39 32 12
 
-Idéemusée est membre de la SCOP Coopérative d'activités et d'entrepreneurs Mosaïque, 
-entreprise de l'économie sociale et solidaire.
+Idéemusée est membre de la SCOP Coopérative d'activités et d'entrepreneurs Mosaïque, entreprise de l'économie sociale et solidaire.
