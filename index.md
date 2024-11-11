@@ -1,7 +1,6 @@
 ---
 title: Idéemusée
-subtitle: Ingénierie de projets culturels durables
-Idéemusée accompagne la transformation écologique des musées et du patrimoine
+subtitle: Ingénierie de projets culturels durables - Idéemusée accompagne la transformation écologique des musées et du patrimoine
 ---
 Muséographie
 Je réalise des missions de gestion et de valorisation des collections.
